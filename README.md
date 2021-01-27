@@ -11,19 +11,19 @@
 - Fade to black (or any color assigned to FadeImage) when transitioning out of main menu to main scene
 
 ## Options Panel
--Music Volume
--Sound Effects Volume
--Back Button
+- Music Volume
+- Sound Effects Volume
+- Back Button
 
 ## Pause Panel
--Music Volume
--Sound Effects Volume
+- Music Volume
+- Sound Effects Volume
 - Resume Button
 - Quit Button
 
 ## Music
--Play music based on scene number
--Music pre-routed to Audio Mixer, connected to UI
+- Play music based on scene number
+- Music pre-routed to Audio Mixer, connected to UI
         
 # How to change the music
 - Replace the music files at Assets/Bolt Game Jam Template/Audio/Music
