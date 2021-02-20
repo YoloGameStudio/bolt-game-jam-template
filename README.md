@@ -1,6 +1,9 @@
 # Introduction
 - Bolt Game Jam Template is a pre-made starter kit Visual Script template for a game.
 - Included a Title screen and a Main screen with a menu panel, options panel and pause panel using Unity's GUI system.
+- More on our [Unity Asset Store](https://assetstore.unity.com/publishers/49809)
+- Join our [Discord Server](https://discord.gg/gas3BMCRhE)
+- [Bolthub.net](https://assetstore.unity.com/publishers/49809) - The best tools for Unity Visual Scripting (Aka: Bolt)
 
 # Features
 ## Main Menu
