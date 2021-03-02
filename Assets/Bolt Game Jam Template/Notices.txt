@@ -1,0 +1,4 @@
+# This project uses these sounds from freesound:
+- "title_scene.wav" by Slaking_97 (https://freesound.org/people/Slaking_97/sounds/455109/) licensed under CC BY 3.0
+- "main_scene.wav"  by Slaking_97 (https://freesound.org/people/Slaking_97/sounds/459706/) licensed under CC BY 3.0
+
